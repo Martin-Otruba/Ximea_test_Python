@@ -52,7 +52,7 @@ for i in range(0, 10):
     
     exposure_list.append(real_exposure)
 
-    exposure_burst_count = cam.get_exposure_burst_count()
+    #exposure_burst_count = cam.get_exposure_burst_count()
     #gain = cam.get_gain()
     #gain_selector = cam.get_gain_selector()
     #exposure_time_selector = cam.get_exposure_time_selector()
